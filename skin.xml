@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin version="1.0">
+    <title xml:lang="en">Editor Micro</title>
+	<description xml:lang="en">
+        Editor Micro
+    </description>
+    <version>1.0</version>
+    <date>2015-06-09</date>
+    <author email_address="mson0129@gmail.com" link="http://www.studio2b.com/">
+		<name xml:lang="en">Studio2b</name>
+    </author>
+    <colorset>
+        <color name="white">
+            <title xml:lang="en">White (default)</title>
+        </color>
+    </colorset>
+</skin>

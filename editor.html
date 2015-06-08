@@ -1,0 +1,9 @@
+<!--%import("../../tpl/js/editor_common.js")-->
+<!--%import("../../tpl/js/editor.js")-->
+
+<iframe id="editor_iframe_{$editor_sequence}" class="microEditor" frameborder="0" height="{$editor_height}" title="Micro WYSWYG Editor"></iframe>
+
+<script>
+	var editor_path = "{$editor_path}";
+	editorStart("{$editor_sequence}", "{$editor_primary_key_name}", "{$editor_content_key_name}", '{$editor_height}' , '#000');
+</script>
